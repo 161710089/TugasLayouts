@@ -23,7 +23,7 @@
                 
 }
 .wrapper{
-	min-height: 87%;
+	min-height: 5%;
 	position: relative;
 
 }
@@ -45,8 +45,8 @@ Copyright Copy Designed By....Alfi Muhtadi<br>
 	  
 
 	  <center>
-    Designed and built with all the love in the world by <a href="https://twitter.com/mdo" target="_blank">@mdo</a> and <a href="https://twitter.com/fat" target="_blank">@fat</a>.</center>
-	Copyright © 2017 Toko Bangunan
+    Designed and built with all the love in the world by <a href="https://twitter.com/mdo" target="_blank">@TB</a> and <a href="https://twitter.com/fat" target="_blank">@IndoCemen</a>.</center>
+	Copyright © 2018 Toko Bangunan
 Designed by TB Studio Developed by Matrial<br>
 
 	  </div>

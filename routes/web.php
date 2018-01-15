@@ -12,10 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/', function () {
-    return view('page1');
+    return view('index');
 });
 Route::get('konten',function(){
 	return view('konten1');
@@ -27,3 +24,6 @@ Route::get('konten1',function(){
 Route::get('konten2',function(){
 	return view('konten3');
 });
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
